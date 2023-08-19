@@ -8,6 +8,7 @@ do
     Console.WriteLine("1 - Gerenciar produtos");
     Console.WriteLine("2 - Gerenciar categorias");
     Console.WriteLine("3 - Gerenciar forncedores");
+    Console.WriteLine("4 - Gerenciar clientes");
     Console.WriteLine("0 - Sair");
     Console.WriteLine("--------------------------------------------------------------");
     Console.Write("Escolha uma opção: ");
