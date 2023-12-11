@@ -1,0 +1,5 @@
+C:\Users\Lucas Torres\source\repos\AppTorresVendas\AppTorresVendas\obj\Debug\net6.0\AppTorresVendas.csproj.AssemblyReference.cache
+C:\Users\Lucas Torres\source\repos\AppTorresVendas\AppTorresVendas\obj\Debug\net6.0\AppTorresVendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Torres\source\repos\AppTorresVendas\AppTorresVendas\obj\Debug\net6.0\AppTorresVendas.AssemblyInfoInputs.cache
+C:\Users\Lucas Torres\source\repos\AppTorresVendas\AppTorresVendas\obj\Debug\net6.0\AppTorresVendas.AssemblyInfo.cs
+C:\Users\Lucas Torres\source\repos\AppTorresVendas\AppTorresVendas\obj\Debug\net6.0\AppTorresVendas.csproj.CoreCompileInputs.cache
